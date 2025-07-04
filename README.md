@@ -1,2 +1,2 @@
 # pythonpro
-## este repositorio pertenece a alvaro alonso pino becerra
+## este repositorio pertenece a alvaro pino 
